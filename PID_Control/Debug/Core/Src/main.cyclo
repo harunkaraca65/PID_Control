@@ -1,0 +1,11 @@
+../Core/Src/main.c:109:10:getMillis	1
+../Core/Src/main.c:114:6:CCR_guncelle	5
+../Core/Src/main.c:142:6:mpu6050	3
+../Core/Src/main.c:212:6:pid_kontrol_dongusu	1
+../Core/Src/main.c:247:5:main	6
+../Core/Src/main.c:402:6:SystemClock_Config	3
+../Core/Src/main.c:448:13:MX_I2C1_Init	2
+../Core/Src/main.c:482:13:MX_TIM1_Init	5
+../Core/Src/main.c:545:13:MX_DMA_Init	1
+../Core/Src/main.c:563:13:MX_GPIO_Init	1
+../Core/Src/main.c:597:6:Error_Handler	1
